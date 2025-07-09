@@ -1,5 +1,7 @@
-# Assignment 1
+#  ✅Assignment 1
 
-## Date: 09/07/2025
+## 📅Date: 09/07/2025
 
-## Build a `Feedback` model with a foreign key to `User`, text content, rating (1 to 5), and timestamp. Ensure rating is validated to be within 1–5.
+## Done by: Swetha A
+
+## You’re building a recipe app. Design models for Recipe and Ingredient. A recipe can have many ingredients. Include quantity as an extra field using a through model.
